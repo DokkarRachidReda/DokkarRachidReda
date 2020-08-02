@@ -36,4 +36,4 @@ I use Android studio and flutter almost everyday to learn new tricks and make aw
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDokkarRachidReda%2FDokkarRachidReda)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DokkarReda?color=%23ff00&label=%40DokkarReda&logo=Twitter&logoColor=%2300ff) ![GitHub followers](https://img.shields.io/github/followers/DokkarRachidReda?style=social)
+[![Twitter:DokkarReda](https://img.shields.io/twitter/follow/DokkarReda?color=%23ff00&label=%40DokkarReda&logo=Twitter&logoColor=%2300ff)](https://twitter.com/DokkarReda)![GitHub:DokkarRachidReda](https://img.shields.io/github/followers/DokkarRachidReda?style=social) [![Linkedin: Dokkar Rachid Reda](https://img.shields.io/badge/-DokkarRachidReda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DokkarRachidReda/)](https://www.linkedin.com/in/DokkarRachidReda/)
