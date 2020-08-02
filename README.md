@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 Hello, I’m Reda, a Mobile Developer :iphone: and Studnet :man: at 'L'École National Supéreur d'informatique ESI ex INI'.
 I use Android studio and flutter almost everyday to learn new tricks and make awesome apps,I am also pasionate about open source so i share some of my codes here and try always to find good open source projects to contribute to.
 
-:computer: Take a look at my [Portfolio](https://dokkarrachidreda.github.io/Portfolio/)
+* :computer: Take a look at my [Portfolio](https://dokkarrachidreda.github.io/Portfolio/)
 
-:bird: Reach me out on [Twitter](https://twitter.com/DokkarReda)
+* :bird: Reach me out on [Twitter](https://twitter.com/DokkarReda)
 
-💬 Ask me about Android and flutter , it's always a pleasure to help others
+* 💬 Ask me about Android and flutter , it's always a pleasure to help others
 
 **Languages and Tools:**  
 
