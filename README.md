@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # Dokkar Rachid Reda
-Hello, I’m Reda, a Mobile Developer :iphone: and Studnet :man: at 'L'École National Supéreur d'informatique ESI ex INI'.
-I use Android studio and flutter almost everyday to learn new tricks and make awesome apps,I am also pasionate about open source so i share some of my codes here and try always to find good open source projects to contribute to.
+Motivated, team-oriented and responsible future Data Scientist with significant experience in analyzing and processing data for Machine Learning/Deep Learning algorithms. Highly educated, with solid knowledge of data structures, database management, and analysis algorithms. Bilingual in English and French.
 
 * :computer: Take a look at my [Portfolio](https://dokkarrachidreda.github.io/Portfolio/)
+
+* 🚀 Take a look at my [ML/DL Rank on Zindi](https://zindi.africa/users/ridadokkar/competitions)
 
 * :bird: Reach me out on [Twitter](https://twitter.com/DokkarReda)
 
@@ -27,6 +28,7 @@ I use Android studio and flutter almost everyday to learn new tricks and make aw
 
 **Languages and Tools:**  
 
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
