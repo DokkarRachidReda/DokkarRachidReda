@@ -24,7 +24,7 @@ Motivated, team-oriented and responsible future Data Scientist with significant 
 
 * :bird: Reach me out on [Twitter](https://twitter.com/DokkarReda)
 
-* 💬 Ask me about Android and flutter , it's always a pleasure to help others
+* 💬 Ask me about Data, Computer Vision, ML/DL, Android and flutter , it's always a pleasure to help others
 
 **Languages and Tools:**  
 
