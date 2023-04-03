@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Dokkar Rachid Reda
 Motivated, team-oriented and responsible future Data Scientist with significant experience in analyzing and processing data for Machine Learning/Deep Learning algorithms. Highly educated, with solid knowledge of data structures, database management, and analysis algorithms. Bilingual in English and French.
 
-* :computer: Take a look at my [Portfolio](https://dokkarrachidreda.github.io/Portfolio/)
+* :computer: Take a look at my [Portfolio](https://dokkarrachidreda.github.io/portfolio-data-science/)
 
 * 🚀 Take a look at my [ML/DL Rank on Zindi](https://zindi.africa/users/ridadokkar/competitions)
 
